@@ -1,6 +1,5 @@
 <template>
 <div>
-!-- 二维码弹框 -->
 <!-- 我的二维码是在弹框里,使用的话只需要给一个装二维码的元素就可以 -->
 <el-button type="primary" @click="payOrder">生成二维码</el-button>
 <el-dialog
